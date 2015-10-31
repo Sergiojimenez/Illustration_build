@@ -2553,7 +2553,7 @@ body {
  * ==================================== */
 .introduction {
   position: relative;
-  background: url("img/fondo_sergio.jpg");
+  background: url("/../img/fondo_sergio.jpg");
   background-size: cover;
   height: 570px; }
 
